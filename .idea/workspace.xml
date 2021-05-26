@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b3fe351-c5dd-422c-ad54-3e09734a764f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1t54TxuuENnSO8u2n5UpokdkhVD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TresEnRayaTest">
+    <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UCBTDDSuma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucb.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucb.tdd" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucb.tdd.CalculadoraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.enCadenaVaciaRetornarCero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UCBTDDSuma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucb.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucb.tdd" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucb.tdd.CalculadoraTest" />
+      <option name="METHOD_NAME" value="enCadenaVaciaRetornarCero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.para2NumerosComasRetornarSuma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UCBTDDSuma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucb.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucb.tdd" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucb.tdd.CalculadoraTest" />
+      <option name="METHOD_NAME" value="para2NumerosComasRetornarSuma" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TresEnRayaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UCBTDDSuma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucb.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucb.tdd" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucb.tdd.TresEnRayaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TresEnRayaTest.siPrimerTurnoXSiguienteCero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UCBTDDSuma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucb.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucb.tdd" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucb.tdd.TresEnRayaTest" />
+      <option name="METHOD_NAME" value="siPrimerTurnoXSiguienteCero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TresEnRayaTest" />
+        <item itemvalue="JUnit.TresEnRayaTest.siPrimerTurnoXSiguienteCero" />
+        <item itemvalue="JUnit.CalculadoraTest" />
+        <item itemvalue="JUnit.CalculadoraTest.para2NumerosComasRetornarSuma" />
+        <item itemvalue="JUnit.CalculadoraTest.enCadenaVaciaRetornarCero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b3fe351-c5dd-422c-ad54-3e09734a764f" name="Default Changelist" comment="" />
+      <created>1622045629204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622045629204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
